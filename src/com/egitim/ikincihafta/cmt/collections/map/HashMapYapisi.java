@@ -11,6 +11,7 @@ public class HashMapYapisi {
 
         HashMap<Integer, String> hashMapOrnegi = new HashMap<>();
 
+
         hashMapOrnegi.put(123456, "Nesrin");
         hashMapOrnegi.put(21546, "Burak");
         hashMapOrnegi.put(21546, "Murat");//aynı key değerini ekleyince sonucu ne olur?

@@ -9,6 +9,7 @@ public class Ogretmen {
         return adi;
     }
 
+
     public void setAdi(String adi) {
         this.adi = adi;
     }

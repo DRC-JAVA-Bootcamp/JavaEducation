@@ -19,6 +19,7 @@ public class Ogretmen {
         System.out.println("öğretmenin bransı:" + brans);
     }
 
+
     public void getOgrenci(){
         if(mudur){
             //getOgrenciList

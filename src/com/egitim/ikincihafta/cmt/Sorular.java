@@ -16,6 +16,7 @@ public class Sorular {
      */
 
 
+
     /**
      * 10 kişilik bir sınıf var.
      * Sınıftaki kişilerin numaraları ve cinsiyetlerini biliyorum.

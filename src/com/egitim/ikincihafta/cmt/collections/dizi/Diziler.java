@@ -43,6 +43,7 @@ public class Diziler {
         System.out.println("dizinin ilk elemanı: " + arrDizi[0]);
 
 
+
         int[] arr = new int[5];
         char c='c';
         long longValue=10;

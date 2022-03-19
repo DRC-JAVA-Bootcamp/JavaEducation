@@ -19,6 +19,7 @@ public class MethodYapisi {
         for (int sayi : sayilar) {
             carpim *= sayi;
         }
+
         System.out.println(carpim);
 
     }

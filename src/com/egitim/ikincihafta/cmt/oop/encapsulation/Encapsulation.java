@@ -59,6 +59,7 @@ public class Encapsulation {
 
 
 
+
     public static void printInfo(Kitap kitap){
         //hizmet ilişkisi yoktur. Bilgi alışverişi vardır sadece.
         String adi = kitap.getAdi();

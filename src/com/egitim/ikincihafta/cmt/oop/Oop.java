@@ -17,6 +17,7 @@ public class Oop {
       //  ogretmen.getOgrenci();
 
 
+
         Ogretmen ogretmen3 = new Ogretmen("Math");
 
 

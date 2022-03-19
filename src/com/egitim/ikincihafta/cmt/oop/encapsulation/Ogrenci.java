@@ -36,6 +36,7 @@ public class Ogrenci {
         return soyadi;
     }
 
+
     public void setSoyadi(String soyadi) {
         this.soyadi = soyadi;
     }

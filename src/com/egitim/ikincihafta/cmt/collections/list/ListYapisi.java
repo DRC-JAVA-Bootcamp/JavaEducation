@@ -84,6 +84,7 @@ public class ListYapisi {
          * sort işlemi
          */
 
+
         List<Integer> integerList = new ArrayList<>();
         integerList.add(5);
         integerList.add(1);

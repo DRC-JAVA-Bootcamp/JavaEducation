@@ -43,6 +43,7 @@ public class HashSetYapisi {
         System.out.println("hashset uzunluğu: " + stringHashSet.size());
 
 
+
 //        System.out.println("hashsetin uzunluğu:" + stringHashSet.size());
 //
 //        stringHashSet.add("Nesrin");
