@@ -1,0 +1,15 @@
+
+=
+java:S3010
+""Remove this assignment of "color".(šéùıÿÿÿÿ
+P
+java:S2209
+"5Change this instance-reference to a static reference.(šéùıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É¡Ü¥ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùêÁÁùÿÿÿÿ
+D
+java:S1068")Remove this unused "color" private field.(›™ºìùÿÿÿÿ
+E
+java:S1068"*Remove this unused "height" private field.(³¦°†üÿÿÿÿ
+i
+java:S1104"NMake ad a static final constant or non-public and provide accessors if needed.(Û˜âÏøÿÿÿÿ

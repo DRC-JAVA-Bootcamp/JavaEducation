@@ -1,0 +1,21 @@
+
+J
+java:S1854"5Remove this useless assignment to local variable "b".(êñ‰@
+J
+java:S1854"5Remove this useless assignment to local variable "a".(ö¢»P
+;
+java:S1481"&Remove this unused "a" local variable.(ö¢»P
+;
+java:S1481"&Remove this unused "b" local variable.(êñ‰@
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÿÓ◊·
+V	java:S125"<This block of commented-out lines of code should be removed.(ó˜ñ…˝ˇˇˇˇ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ÿÓ◊·
+Q	java:S1257"<This block of commented-out lines of code should be removed.(ÓÇí»
+1
+java:S3626?"Remove this redundant jump.(˚¡›Ö
+S	java:S106="9Replace this use of System.out or System.err by a logger.(€≠◊Ë˝ˇˇˇˇ
+6
+java:S2129K" Remove this "String" constructor(≤‚•º
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ñ≈¢Ω˚ˇˇˇˇ
+=
+java:S2189J""Add an end condition to this loop.(òÔàûˇˇˇˇˇ

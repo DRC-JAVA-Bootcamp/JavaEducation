@@ -1,0 +1,9 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "flower".(Ÿ¶Ô”
+A
+java:S1481"+Remove this unused "flower" local variable.(Ÿ¶Ô”
+V	java:S125"<This block of commented-out lines of code should be removed.(ŸîôÚˇˇˇˇˇ
+V	java:S125"<This block of commented-out lines of code should be removed.(º√º⁄¯ˇˇˇˇ
+x
+java:S1128"]Remove this unused import 'com.egitim.ikincihafta.pazar.oop.thissuper.bitkihiyerarsi.Karpuz'.(√é„’ˇˇˇˇˇ
