@@ -19,6 +19,11 @@ public class Rose extends Flower {
         System.out.println("Rose smell is good");
     }
 
+    public void smellRose() {
+        super.smell();
+        System.out.println("Rose smell is good");
+    }
+
     /**
      * Ovveriding:
      * Nesne methodu nesne methodunu ezer adı ovverriding tir.
@@ -37,6 +42,10 @@ public class Rose extends Flower {
         //üst sınıftakini super yazmadan alabilirdim.
         System.out.println("Name:" + super.ad);
         // super.color; static verilere erişemem
+    }
+
+    public static void main(String[] args) {
+
     }
 
 }

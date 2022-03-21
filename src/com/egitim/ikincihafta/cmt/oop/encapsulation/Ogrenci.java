@@ -70,8 +70,8 @@ public class Ogrenci {
         return false;
     }
 
-//    @Override
-//    public int hashCode() {
-//        return no;
-//    }
+    @Override
+    public int hashCode() {
+        return no;
+    }
 }

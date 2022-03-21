@@ -10,7 +10,6 @@ public abstract class AbstractDoctor {
 
     private String isim;
 
-    public abstract void maasHesapla();
 
     public void uzmanlik(){
         System.out.println("Doktor lisans mezunudur.");
