@@ -9,7 +9,16 @@ public class Log {
     private int orderId;
 
     public Log(Builder builder) {
+
         this.logMessage = builder.logMessage;
+
+        if(logMessage == null){
+            try {
+                throw new Exception("message zorunludur.");
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
         this.userName = builder.userName;
         this.userIp = builder.userIp;
         this.logType = builder.logType;
@@ -86,4 +95,9 @@ public class Log {
                 "logMessage='" + logMessage + '\'' +
                 '}';
     }
+
+    public String getLogMessage() {
+        return logMessage;
+    }
+
 }

@@ -5,7 +5,7 @@ public class Rose extends Flower {
     protected String ad = "Gül";
 
     public Rose(String color) {
-        super(color);//süper üst sınıfn kurucularına erişmek için kullanılır.
+      //  super(color);//süper üst sınıfn kurucularına erişmek için kullanılır.
     }
 
     /**

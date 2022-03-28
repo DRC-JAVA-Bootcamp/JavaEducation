@@ -6,9 +6,9 @@ public class Flower extends FlowerBase{
     private String height;
     public String ad = "Çiçek";
 
-    public Flower(String color){
-        this.color = color;
-    }
+//    public Flower(String color){
+//        this.color = color;
+//    }
 
 
     public void smell(){

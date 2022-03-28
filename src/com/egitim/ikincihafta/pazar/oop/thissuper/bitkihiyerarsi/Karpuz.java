@@ -1,6 +1,6 @@
 package com.egitim.ikincihafta.pazar.oop.thissuper.bitkihiyerarsi;
 
-public class Karpuz {
+public class Karpuz extends Flower{
 
     private int adet;
     public static final int karpuzKilogramFiyati = 10;

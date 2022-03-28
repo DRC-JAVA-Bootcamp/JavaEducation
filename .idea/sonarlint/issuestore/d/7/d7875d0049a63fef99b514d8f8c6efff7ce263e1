@@ -7,12 +7,12 @@ R
 java:S1854"7Remove this useless assignment to local variable "yas".(á™Ûøşÿÿÿÿ
 B
 java:S1481"'Remove this unused "ad" local variable.(Ø›´÷ıÿÿÿÿ
-C
-java:S1481"(Remove this unused "yas" local variable.(á™Ûøşÿÿÿÿ
+J
+java:S1481"(Remove this unused "yas" local variable.(á™Ûøşÿÿÿÿ8¸ö²ú/
 Y
-java:S1172">Remove these unused method parameters "ilkSayi", "ikinciSayi".(ˆÍ¤ùıÿÿÿÿ
+java:S1172">Remove these unused method parameters "ilkSayi", "ikinciSayi".(ˆÍ¤ùıÿÿÿÿ
 @
-java:S1481"*Remove this unused "deger" local variable.(œÈÔˆ
+java:S1481"*Remove this unused "deger" local variable.(œÈÔˆ
 k
 java:S1104"PMake sayi a static final constant or non-public and provide accessors if needed.(áú©Ëøÿÿÿÿ
 t
