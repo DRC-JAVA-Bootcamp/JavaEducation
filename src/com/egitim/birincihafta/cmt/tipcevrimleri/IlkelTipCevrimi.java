@@ -56,6 +56,14 @@ public class IlkelTipCevrimi {
         System.out.println("cast edilmemiş l1: " + l1);
         System.out.println("cast edilmiş l1  : " + i1);
 
+        /**
+         * Integer cache: -127 ile 128 arasındaki sayılar cache lenir.
+         * aynı referans gösterilir. böylece performans anlamında faydası olur.
+         * Ancak new anahtar kelimesi ile oluşturulan değerler hariç.
+         */
+        Integer intValue1 = 800;
+        Integer intValue2 = 800;
+        System.out.println(intValue1 == intValue2);
     }
 
 }
