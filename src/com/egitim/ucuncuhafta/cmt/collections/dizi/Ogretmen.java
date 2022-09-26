@@ -1,4 +1,4 @@
-package com.egitim.ikincihafta.cmt.collections.dizi;
+package com.egitim.ucuncuhafta.cmt.collections.dizi;
 
 public class Ogretmen {
 

@@ -1,6 +1,5 @@
-package com.egitim.ikincihafta.cmt.kullanicidanverialma;
+package com.egitim.ucuncuhafta.cmt.kullanicidanverialma;
 
-import java.util.HashMap;
 import java.util.Scanner;
 
 public class VeriAl {

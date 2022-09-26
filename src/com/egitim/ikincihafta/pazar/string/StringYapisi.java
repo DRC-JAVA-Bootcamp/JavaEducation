@@ -15,6 +15,13 @@ public class StringYapisi {
         String str33 = new String("Nesrin");
         String str1 = "Nesrin";
         String str2= "Nesrin";
+        str1 = "Murat";
+
+        if (str1 == str2) {
+            System.out.println ("yeap");
+        } else {
+            System.out.println ("no");
+        }
 
         if (str == str33) {
             System.out.println ("yeap");
@@ -54,6 +61,37 @@ public class StringYapisi {
         String cumle = "Bu bir cümledir";
         cumle = cumle.substring(3,8);//index önemli.
         System.out.println(cumle);
+
+        /**
+         * String immutable
+         */
+
+        String name = "Nesrin";
+        name = "Ahmet" + " Aşan";
+        System.out.println(name);
+        //Hafızada Nesrin ve Nesrin Aşan eklenmiş oldu.
+
+        String firstName = new String("Burak");// A11
+        firstName = "Burak"; //B11
+        firstName = new String("Burak"); //A12
+        firstName = "Burak";//B11
+
+        System.out.println(firstName);
+
+        String var = "son durumdaki sayac degeri= ";
+        for (int i = 0; i < 10; i++) {
+            var = var + i;
+            System.out.println(var);
+        }
+
+        /**
+         * String builder kullanımı
+         */
+        StringBuilder stringBuilder = new StringBuilder("son durumdaki sayac degeri= ");
+        for (int i = 0; i < 10; i++) {
+            stringBuilder.append(i);
+            System.out.println(stringBuilder.toString());
+        }
 
     }
 

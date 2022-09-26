@@ -13,8 +13,6 @@ public class Constructur {
      * Constructurlar ovverload edilebilir.
      */
 
-
-
     public Constructur(String isim){
 
     }

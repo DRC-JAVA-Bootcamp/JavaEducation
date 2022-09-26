@@ -6,19 +6,8 @@ public class Ogretmen {
     public int yasi;
     public boolean mudur;
 
-    public Ogretmen(boolean isMudur){
-        mudur = isMudur;
+    public Ogretmen(){
     }
-
-    public Ogretmen(boolean isMudur, String brans){
-        mudur = isMudur;
-    }
-
-
-    public Ogretmen(String brans){
-        System.out.println("öğretmenin bransı:" + brans);
-    }
-
 
     public void getOgrenci(){
         if(mudur){
@@ -29,6 +18,4 @@ public class Ogretmen {
             System.out.println("burada çağrılan öğregci listesinin bir kısmını görür.");
 
     }
-
-
 }

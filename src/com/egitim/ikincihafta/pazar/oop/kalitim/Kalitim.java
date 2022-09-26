@@ -12,6 +12,8 @@ public class Kalitim {
      */
     public static void main(String[] args) {
 
+
+
         /**
          * is-a ya da is like a ilişkisi vardır aralarında.
          * Okuma şekli şöyledir:

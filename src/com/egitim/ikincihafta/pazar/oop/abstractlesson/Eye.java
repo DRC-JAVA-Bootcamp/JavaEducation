@@ -6,4 +6,9 @@ public class Eye extends AbstractDoctor implements IMaasHesapla{
     public void maasHesapla() {
 
     }
+
+    @Override
+    public void muayene() {
+
+    }
 }

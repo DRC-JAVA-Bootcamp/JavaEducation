@@ -1,6 +1,6 @@
 package com.egitim.ikincihafta.pazar.oop.kalitim;
 
-public class Animal {
+public abstract class Animal {
 
     private String name;
 
