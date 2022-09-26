@@ -11,16 +11,10 @@ public class Oop {
      * Nesne olan somut olanı temsil eder.
      */
     public static void main(String[] args) {
-        Ogretmen ogretmen = new Ogretmen(true);
+        Ogretmen ogretmen = new Ogretmen();
         ogretmen.adi = "Nesrin";
         ogretmen.yasi = 25;
       //  ogretmen.getOgrenci();
-
-
-
-        Ogretmen ogretmen3 = new Ogretmen("Math");
-
-
 
     }
 
@@ -36,7 +30,6 @@ public class Oop {
      * @param isim
      */
     public void okulaGit(String isim){
-
 
     }
 

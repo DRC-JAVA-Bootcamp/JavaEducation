@@ -13,8 +13,8 @@ public class SendMessageImpl implements ISendMessage{
     }
 
     public void test() {
-        System.out.println(sayi);
-        test1();
+//        System.out.println(sayi);
+//        test1();
 
     }
 
